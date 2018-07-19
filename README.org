@@ -79,6 +79,13 @@ et un mot de passe conseiller fournis par ProxiBanque.
 
 ** Procédure
 
+*** Base SQL
+
+Une fois MySQL lancé via XAMPP, créer une base de données nommée
+=proxibanquesi= et importer le fichier =./sql/proxibanquesi.sql=.
+
+*** Exécution
+
 Afin d'installer le projet, il est possible d'importer le projet dans
 Eclipse. Veuillez à ce que les librairies soient bien connectées au
 projet :
